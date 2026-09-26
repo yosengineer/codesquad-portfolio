@@ -185,18 +185,6 @@ section {
 }
 
 /* Hero */
-/* section#hero {
-    min-height: 78vh;
-    display: flex;
-    align-items: center;
-    color: var(--white);
-    background:
-        linear-gradient(rgba(23, 34, 59, 0.92), rgba(23, 34, 59, 0.9)),
-        url("assets/background_image.jpg");
-    background-position: center;
-    background-size: cover;
-} */
-
 section#hero {
     min-height: 78vh;
     display: flex;
