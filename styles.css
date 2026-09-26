@@ -185,7 +185,7 @@ section {
 }
 
 /* Hero */
-section#hero {
+/* section#hero {
     min-height: 78vh;
     display: flex;
     align-items: center;
@@ -195,6 +195,18 @@ section#hero {
         url("assets/background_image.jpg");
     background-position: center;
     background-size: cover;
+} */
+
+section#hero {
+    min-height: 78vh;
+    display: flex;
+    align-items: center;
+    color: var(--white);
+
+    background-image: url("assets/background_image.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 .hero_content {
